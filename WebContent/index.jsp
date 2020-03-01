@@ -55,7 +55,7 @@
           <a class="nav-link js-scroll-trigger" href="#interests">포트폴리오</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#awards">대외활동</a>
+          <a class="nav-link js-scroll-trigger" href="#awards">기타활동</a>
         </li>
       </ul>
     </div>
@@ -73,17 +73,20 @@
         </div>
         <p class="lead mb-5">서울 독산 사는 ERP 생산모듈 개발자 김현구입니다.</p>
         <div class="social-icons">
-          <a href="#">
-            <i class="fab fa-linkedin-in"></i>
+          <a href="https://www.instagram.com/j1ayone/" target='_blank'>
+            <i class="fab fa-instagram"></i>
           </a>
-          <a href="#">
+          <a href="https://github.com/remtov" target='_blank'>
             <i class="fab fa-github"></i>
           </a>
-          <a href="#">
+          <a href="https://twitter.com/remnanttov" target='_blank'>
             <i class="fab fa-twitter"></i>
           </a>
-          <a href="#">
+          <a href="https://www.facebook.com/remnanttov" target='_blank'>
             <i class="fab fa-facebook-f"></i>
+          </a>
+          <a href="https://j1ayone.blogspot.com/" target='_blank'>
+            <i class="fab fa-blogger-b"></i>
           </a>
         </div>
       </div>
@@ -162,62 +165,43 @@
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
       <div class="w-100">
-        <h2 class="mb-5">Skills</h2>
+        <h2 class="mb-5">기술</h2>
 
-        <div class="subheading mb-3">Programming Languages &amp; Tools</div>
+        <div class="subheading mb-3">프로그래밍 언어 &amp; 도구</div>
         <ul class="list-inline dev-icons">
+
+          
           <li class="list-inline-item">
-            <i class="fab fa-html5"></i>
+            <i class="fab fa-java">JAVA</i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-css3-alt"></i>
+            <i class="fab fa-adobe">포토샵CS2,CS6 / 일러스트CS2,CS6 / 프리미어 CS6</i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-js-square"></i>
+            <i class="fab fa-microsoft">MS-SQL(SQL Server)2008 ,2012 ,Standard ,Express / 엑셀2007 ,파워포인트2007 ,워드2007</i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-angular"></i>
+            <i class="fab">SYBASE ASE Enterprise,express / 파워빌더9,10.5,12.5 / Eclipse Oxygen4.7.3, 201906 /BootStrap/ ORCLE express 11g / Linux CentOS7 / Virtual BOX / Linux RedHat AWS EC2 CLoud / Spring4.3.8 / HTML5 / CSS3 / Mybatis / JQuery & Ajax / jSP & Servlet / JavaScript / Windows7,10 / MongoDB / MariaDB</i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-react"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-node-js"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-sass"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-less"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-wordpress"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-gulp"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-grunt"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-npm"></i>
+            <i class="fab fa-wordpress">워드프레스</i>
           </li>
         </ul>
 
-        <div class="subheading mb-3">Workflow</div>
+        <div class="subheading mb-3">작업스타일</div>
         <ul class="fa-ul mb-0">
           <li>
             <i class="fa-li fa fa-check"></i>
-            Mobile-First, Responsive Design</li>
+            필요한 기능 위주로 간단하게 설계</li>
           <li>
             <i class="fa-li fa fa-check"></i>
-            Cross Browser Testing &amp; Debugging</li>
+            철저한 테스트 &amp; 디버깅</li>
           <li>
             <i class="fa-li fa fa-check"></i>
-            Cross Functional Teams</li>
+            팀 내의 분위기를 중요시</li>
           <li>
             <i class="fa-li fa fa-check"></i>
-            Agile Development &amp; Scrum</li>
+            빠르게 보다 방향을 잘 잡는 것을 중요시</li>
         </ul>
       </div>
     </section>
@@ -226,9 +210,14 @@
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
       <div class="w-100">
-        <h2 class="mb-5">Interests</h2>
-        <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-        <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+        <h2 class="mb-5">포트폴리오</h2>
+        <p>2019년 취업 이전 작업물은 이력서에 포함되어 있습니다. <a href = 'https://pds3.saramin.co.kr/webfile/download_memberfile_security.php?appmode=slide_webview&file=person%2Fresume_filebox%2F202001%2F04%2Fq3jqjw_o16s-drykve_resume_filebox.hwp&name2=%EA%B9%80%ED%98%84%EA%B5%AC_%EC%9E%85%EC%82%AC%EC%A7%80%EC%9B%90%EC%84%9C_200104_0433.hwp&_ga=2.125246538.1510478177.1583059442-1958343785.1582943704'>다운로드</a></p>
+       
+        <p class="mb-0">재직중 작업물은 직장의 저작권문제가 있을 수 있으므로 검토 후 업로드할 예정입니다.</p>
+        <p>되도록 개인적인 작업물 위주로 업로드할 예정입니다.</p>
+       
+        <p >향기나무 교회 웹사이트 <a href='#'>링크</a></p>
+        
       </div>
     </section>
 
@@ -236,34 +225,29 @@
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
       <div class="w-100">
-        <h2 class="mb-5">Awards &amp; Certifications</h2>
+        <h2 class="mb-5">기타활동</h2>
         <ul class="fa-ul mb-0">
           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            Google Analytics Certified Developer</li>
+            <i class="fa-li fa fa-tools text-warning"></i>
+            한국아이티인재개발원 -  ICT클라우드 기반의 웹 서비스 개발자 과정 2018.07~2018.12</li>
           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            Mobile Web Specialist - Google Certification</li>
+            <i class="fa-li fa fa-tools text-warning"></i>
+            파주 한성 퀵 -  물류 배송 2015.10~2018.06</li>
           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            1<sup>st</sup>
-            Place - University of Colorado Boulder - Emerging Tech Competition 2009</li>
+            <i class="fa-li fa fa-tools text-warning"></i>
+            버거킹 홍대점 - 라이더 팀장 2014.10~2015.10</li>
           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            1<sup>st</sup>
-            Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)</li>
+            <i class="fa-li fa fa-tools text-warning"></i>
+            건설업 - 터널방수 기술보조 2014.01~2014.10</li>
           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            2<sup>nd</sup>
-            Place - University of Colorado Boulder - Emerging Tech Competition 2008</li>
+            <i class="fa-li fa fa-tools text-warning"></i>
+            자영업 - 홍대 에나김밥 2013.01~2014.01</li>
           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            1<sup>st</sup>
-            Place - James Buchanan High School - Hackathon 2006</li>
+            <i class="fa-li fa fa-tools text-warning"></i>
+            사회봉사 - 히스팝엔터테인먼트 해외선교 음반 공연 자선단체 활동 2009.01~2013.01</li>
           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            3<sup>rd</sup>
-            Place - James Buchanan High School - Hackathon 2005</li>
+            <i class="fa-li fa fa-tools text-warning"></i>
+            자격증 -  컴퓨터그래픽스운용기능사 2004.07 , 1종보통운전면허 2003.08</li>
         </ul>
       </div>
     </section>
