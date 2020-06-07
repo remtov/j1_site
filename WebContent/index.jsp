@@ -75,7 +75,7 @@
 				<div class="subheading mb-5">
 					서울 금천 독산 926-3 102호 / 010-2703-7486 <a href="mailto:name@email.com">remnanttov@gmail.com</a>
 				</div>
-				<p class="lead mb-5">서울 독산 사는 개발자 김현구입니다. 파워빌더, 프로시저, 자바, 웹개발, 디자인 등을 다룹니다.  이 페이지는
+				<p class="lead mb-5">서울 독산 사는 개발자 김현구입니다. 파워빌더, 프로시저,PL/SQL, 자바, 웹개발, 디자인 등을 다룹니다.  이 페이지는
 					공유기를 지나 집 노트북의 Window10 안에 가상 머신 안에 리눅스CentOS7안에 톰캣서버에 배포된
 					페이지입니다.</p>
 				<div class="social-icons">
@@ -106,11 +106,11 @@
 					class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
 					<div class="resume-content">
 						<h3 class="mb-0">견적산출모듈 개발자(ERP)</h3>
-						<div class="subheading mb-3">(주)이노시스아이티</div>
+						<div class="subheading mb-3">(주)0000아이티</div>
 						<p></p>
 					</div>
 					<div class="resume-date text-md-right">
-						<span class="text-primary">2020.04.06(입사예정)</span>
+						<span class="text-primary">2020.04.06~(재직중)</span>
 					</div>
 				</div>
 				
@@ -123,7 +123,7 @@
 						<p></p>
 					</div>
 					<div class="resume-date text-md-right">
-						<span class="text-primary">2019.01 - 2020.4.06(구조조정으로 인한 이직 예정)</span>
+						<span class="text-primary">2019.01 - 2020.4.06(구조조정으로 이직)</span>
 					</div>
 				</div>
 
@@ -200,11 +200,11 @@
 
 				<div class="subheading mb-3">작업스타일</div>
 				<ul class="fa-ul mb-0">
-					<li><i class="fa-li fa fa-check"></i> 필요한 기능 위주로 간단하게 설계</li>
+					<li><i class="fa-li fa fa-check"></i> 심플한 설계</li>
 					<li><i class="fa-li fa fa-check"></i> 철저한 테스트 &amp; 디버깅</li>
-					<li><i class="fa-li fa fa-check"></i> 팀 내의 분위기를 중요시</li>
-					<li><i class="fa-li fa fa-check"></i> 방향을 잘 잡는 것을 중요시</li>
-					<li><i class="fa-li fa fa-check"></i> 마감임박시 필수적인 기능 구현에 집중</li>
+					<li><i class="fa-li fa fa-check"></i> 팀웍 중시</li>
+					<li><i class="fa-li fa fa-check"></i> 문제해결을 위한 방향성 중시</li>
+					<li><i class="fa-li fa fa-check"></i> 필수적 기능 구현 중시</li>
 				</ul>
 			</div>
 		</section>
