@@ -5,11 +5,21 @@
 
 <head>
 
+<!-- 
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+
 <meta charset="utf-8">
 <meta name="viewport"
 	content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1">
-<meta name="description" content="">
-<meta name="author" content="">
+<meta name="title" content="김현구 홈페이지">
+<meta name="keywords"
+	content="개발자, 샤시, 견적, ERP, 생산 , 파워빌더, SQL , 오라클, mssql , sybase, DB , 데이터베이스 , 이력서, 포트폴리오, CS, 프로그래머 , 프로그램, 코딩">
+<meta name="description"
+	content="서울시 금천구 독산 4동 웹,파워빌더,SQL 초보 개발자 김현구입니다.">
+<meta name="author" content="김현구">
+<meta name="generator" content="eclipse">
+<meta name="application-name" content="chrome">
 
 <title>김현구 홈페이지</title>
 
@@ -37,7 +47,7 @@
 		<a class="navbar-brand js-scroll-trigger" href="#page-top"> <span
 			class="d-block d-lg-none">김현구</span> <span class="d-none d-lg-block">
 				<img class="img-fluid img-profile rounded-circle mx-auto mb-2"
-				src="img/profile2.jpg" alt="">
+				src="img/profile3.png" alt="">
 		</span>
 		</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse"
@@ -75,9 +85,8 @@
 				<div class="subheading mb-5">
 					서울 금천 독산 926-3 102호 / 010-2703-7486 <a href="mailto:name@email.com">remnanttov@gmail.com</a>
 				</div>
-				<p class="lead mb-5">서울 독산 사는 개발자 김현구입니다. 파워빌더, 프로시저,PL/SQL, 자바, 웹개발, 디자인 등을 다룹니다.  이 페이지는
-					공유기를 지나 집 노트북의 Window10 안에 가상 머신 안에 리눅스CentOS7안에 톰캣서버에 배포된
-					페이지입니다.</p>
+				<p class="lead mb-5">서울 독산 사는 초보개발자 김현구입니다. 파워빌더, SQL, 프로시저 ,
+					자바, 웹 등을 배우며 경력을 쌓고 있습니다. 이 페이지는 가상 머신 CentOS7 톰캣서버의 페이지입니다.</p>
 				<div class="social-icons">
 					<a href="https://www.instagram.com/j1ayone/" target='_blank'> <i
 						class="fab fa-instagram"></i>
@@ -105,7 +114,7 @@
 				<div
 					class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
 					<div class="resume-content">
-						<h3 class="mb-0">견적산출모듈 개발자(ERP)</h3>
+						<h3 class="mb-0">파워빌더 개발보조 + CS업무</h3>
 						<div class="subheading mb-3">(주)0000아이티</div>
 						<p></p>
 					</div>
@@ -113,12 +122,12 @@
 						<span class="text-primary">2020.04.06~(재직중)</span>
 					</div>
 				</div>
-				
-				
+
+
 				<div
 					class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
 					<div class="resume-content">
-						<h3 class="mb-0">생산모듈 개발자(MES,ERP)</h3>
+						<h3 class="mb-0">파워빌더 개발보조(MES) + 디자인 문서작업</h3>
 						<div class="subheading mb-3">(주)대우아이티솔루션</div>
 						<p></p>
 					</div>
@@ -130,7 +139,7 @@
 				<div
 					class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
 					<div class="resume-content">
-						<h3 class="mb-0">디자인 및 HTML 코더</h3>
+						<h3 class="mb-0">쇼핑몰 상품디자인 및 간단한 HTML 코딩</h3>
 						<div class="subheading mb-3">(주)하이코스</div>
 						<p></p>
 					</div>
@@ -184,27 +193,28 @@
 			<div class="w-100">
 				<h2 class="mb-5">기술</h2>
 
-				<div class="subheading mb-3">프로그래밍 언어 &amp; 도구</div>
+				<div class="subheading mb-3">프로그래밍 언어 &amp; 도구 &amp; DB</div>
 				<div>
-					-프로그램도구 : 파워빌더9,10.5,12.5 , Eclipse Oxygen4.7.3, 201906
-					<p>
-						-데이터베이스 : SYBASE ASE Enterprise & Express , MS-SQL(SQL Server)2008
-						& 2012 & Standard & Express , ORCLE express 11g , MongoDB /
-						MariaDB <br> -디자인 : 포토샵CS6 / 일러스트CS6 <br> -영상편집 : 프리미어
-						CS6<br> -문서 : 엑셀2007 ,파워포인트2007 ,워드2007<br> -언어 : JAVA
-						1.8 <br> -OS : Linux CentOS7 , Linux RedHat AWS EC2 CLoud ,
-						Windows7,10<br> -기타 : BootStrap/ Virtual BOX / HTML5 / CSS3 /
-						Spring4.3.8 / Mybatis / JQuery & Ajax / jSP & Servlet / JavaScript
-					</p>
+					<p>실무경험 : 파워빌더9,10.5,12.5 , SYBASE ASE Enterprise & Express ,
+						MS-SQL(SQL Server)2008 & 2012 & 2005 & Standard & Express , ORCLE
+						10g , 9i , 포토샵CS6 , 일러스트CS6 , 프리미어cs6 , 엑셀2007 ,파워포인트2007 ,워드2007
+						, Windows7,10</p>
+					<p>한국아이티인재개발원 교육 : Eclipse Oxygen4.7.3, 201906 , oracle express
+						11g , MongoDB , MariaDB, JAVA1.8 , Linux CentOS7 , Linux RedHat
+						AWS EC2 CLoud , BootStrap/ Virtual BOX / HTML5 / CSS3 / ,
+						Spring4.3.8 / Mybatis / JQuery & Ajax / jSP & Servlet / JavaScript</p>
+
 				</div>
 
 				<div class="subheading mb-3">작업스타일</div>
 				<ul class="fa-ul mb-0">
-					<li><i class="fa-li fa fa-check"></i> 심플한 설계</li>
-					<li><i class="fa-li fa fa-check"></i> 철저한 테스트 &amp; 디버깅</li>
-					<li><i class="fa-li fa fa-check"></i> 팀웍 중시</li>
-					<li><i class="fa-li fa fa-check"></i> 문제해결을 위한 방향성 중시</li>
-					<li><i class="fa-li fa fa-check"></i> 필수적 기능 구현 중시</li>
+					<li><i class="fa-li fa fa-check"></i> 이해력이 빠르지 못함</li>
+					<li><i class="fa-li fa fa-check"></i> 남들보다 야근을 많이 함</li>
+					<li><i class="fa-li fa fa-check"></i> 계획성 부족. (동시에 여러가지 일을
+						처리하지 못함)</li>
+					<li><i class="fa-li fa fa-check"></i> 될 때까지 해보고 되면 희열을 느낌</li>
+					<li><i class="fa-li fa fa-check"></i> 다른 프로그래머들 보다 소질은 없으나
+						프로그램 자체를 재밋어 함</li>
 				</ul>
 			</div>
 		</section>
@@ -216,10 +226,15 @@
 			<div class="w-100">
 				<h2 class="mb-5">포트폴리오</h2>
 				<p>
-					2019년 취업 이전 작업물은 이력서에 포함되어 있습니다. <a
+					<a href='http://ftbbc.org' target="_blank"><img style="width:200px" src ="img/sumnail.png"><br>*향기나무성서침례교회 웹사이트 ftbbc.org </a><br>
+					이클립스, 부트스트랩, CSS, HTML
+				</p>
+				<p>
+					*2019년 취업 이전 작업물은 이력서에 포함되어 있습니다. <a
 						href='https://pds3.saramin.co.kr/webfile/download_memberfile_security.php?appmode=slide_webview&file=person%2Fresume_filebox%2F202001%2F04%2Fq3jqjw_o16s-drykve_resume_filebox.hwp&name2=%EA%B9%80%ED%98%84%EA%B5%AC_%EC%9E%85%EC%82%AC%EC%A7%80%EC%9B%90%EC%84%9C_200104_0433.hwp&_ga=2.125246538.1510478177.1583059442-1958343785.1582943704'>다운로드</a>
 				</p>
-				<p class="mb-0">재직중 작업물은 저작권문제 검토 후 업로드 예정입니다.</p>
+				<p class="mb-0">*재직중 작업물은 보안 문제 검토후 업로드 예정입니다.</p>
+
 			</div>
 		</section>
 
@@ -230,20 +245,18 @@
 			<div class="w-100">
 				<h2 class="mb-5">기타활동</h2>
 				<ul class="fa-ul mb-0">
+
 					<li><i class="fa-li fa fa-tools text-warning"></i> 한국아이티인재개발원
-						- ICT클라우드 기반의 웹 서비스 개발자 과정 2018.07~2018.12</li>
-					<li><i class="fa-li fa fa-tools text-warning"></i> 파주 한성 퀵 -
-						물류 배송 2015.10~2018.06</li>
-					<li><i class="fa-li fa fa-tools text-warning"></i> 버거킹 홍대점 -
-						라이더 팀장 2014.10~2015.10</li>
-					<li><i class="fa-li fa fa-tools text-warning"></i> 건설업 - 터널방수
-						기술보조 2014.01~2014.10</li>
-					<li><i class="fa-li fa fa-tools text-warning"></i> 자영업 - 홍대
-						에나김밥 2013.01~2014.01</li>
-					<li><i class="fa-li fa fa-tools text-warning"></i> 사회봉사 -
-						히스팝엔터테인먼트 해외선교 음반 공연 자선단체 활동 2009.01~2013.01</li>
+						- ICT클라우드 기반의 웹 서비스 개발자 과정 2018.07~2018.12 <a
+						href="http://www.koitt.com/">www.koitt.com</a></li>
 					<li><i class="fa-li fa fa-tools text-warning"></i> 자격증 -
 						컴퓨터그래픽스운용기능사 2004.07 , 1종보통운전면허 2003.08</li>
+					<li>파주 한성 퀵 - 2015.10~2018.06</li>
+					<li>버거킹 홍대점 - 라이더 팀장 2014.10~2015.10</li>
+					<li>건설업 - 터널방수 2014.01~2014.10</li>
+					<li>자영업 - 홍대 에나김밥 2013.01~2014.01</li>
+					<li>사회봉사 - 히스팝엔터테인먼트 해외선교 음반 공연 자선단체 활동 2009.01~2013.01</li>
+
 				</ul>
 			</div>
 		</section>
